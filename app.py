@@ -2,8 +2,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import QObject
 import threading 
-from processor import Processor
-import threading
 import init
 import sys  
 import os
